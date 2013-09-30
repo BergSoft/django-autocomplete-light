@@ -30,6 +30,18 @@ Features include:
 Each feature has a live example and is fully documented. It is also designed
 and documented so that you create your own awesome features too.
 
+What's new in 2.x ?
+-------------------
+
+- Form fields are provided for better security and DRY configurability and
+  performance.
+- zepto.js support,
+- Python 3 support,
+- Javascript plugin-initialization refactor,
+- Remote autocomplete supports recent django-restframework,
+- Various inconsistencies / coding standard violations fixed,
+- New documentation
+
 Resources
 ---------
 
